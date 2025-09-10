@@ -1,0 +1,4 @@
+[submodule "style-guide"]
+	path = style-guide
+	url = https://github.com/FreeUKGen/style-guide.git
+	branch = main
